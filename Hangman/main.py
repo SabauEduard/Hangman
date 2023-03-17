@@ -134,11 +134,11 @@ while run:
             break
 
     if won is True:
-        display_message("STRONG SPERM!")
+        display_message("STRONG!")
         break
 
     if hangman_status == 6:
-        display_message("WEAK SPERM!")
+        display_message("WEAK!")
         break
 
 
